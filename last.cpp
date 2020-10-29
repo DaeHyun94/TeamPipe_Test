@@ -40,7 +40,8 @@ extern int Bvf;
 extern int overcut;
 
 // last 대화 상자
-
+int abc
+//잉어킹 잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹잉어킹
 IMPLEMENT_DYNAMIC(last, CDialogEx)
 
 last::last(CWnd* pParent /*=nullptr*/)
